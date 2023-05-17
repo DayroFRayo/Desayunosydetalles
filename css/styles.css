@@ -551,12 +551,12 @@ footer .container {
 
 /************************************Contacto*********************************************/
 .contactanos{
-    padding-top: 8%;
+    padding-top: 11%;
     justify-content: center;
     text-align: justify;    
     background-size: 50% 20px;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 38px;
 }
 .datos{
     padding-top: 10px;
@@ -564,10 +564,13 @@ footer .container {
     font-size: 18px;
 }
 .mapa{
-    width:700px;
-    height:500px;
+    width:600px;
+    height:600px;
     border:1px solid black;
     
+}
+.informacion{
+    padding-top: 9%;
 }
 /**************************************Como comprar*********************************/
 .como{
@@ -649,16 +652,7 @@ footer .container {
     .datos{
         font-size: 10px;
     }
-    .cuadro{
-        padding-top: 5%;
-    }
-    .informacion{
-        padding-top: 5%;
-    }
-    .mapa{
-        width: 600px;
-        height: 400px;
-    }
+
 }
 @media (max-width: 1000px){
     .card{
